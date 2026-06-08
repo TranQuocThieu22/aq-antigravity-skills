@@ -1,9 +1,9 @@
 ---
 name: sae-new-state
-description: Hướng dẫn các pattern quản lý state sử dụng Zustand trong dự án SAE-new. Sử dụng khi thiết kế, cập nhật hoặc đồng bộ các state cục bộ và toàn cục giữa các component, side-effects, hoặc local storage.
+description: Directs state management patterns using Zustand in the SAE-new project. Use when designing, updating, or syncing feature-specific and global states across components, side-effects, or local storage.
 ---
 
-# Kỹ năng Quản lý State SAE-New
+# SAE-New State Management Skill
 
 This skill outlines how to design, create, and interact with global and feature-specific stores using `zustand` in the `sae-new` project.
 

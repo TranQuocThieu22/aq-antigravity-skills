@@ -1,9 +1,9 @@
 ---
 name: sae-new-feature
-description: Hướng dẫn cách tạo, cấu trúc và tích hợp các tính năng và trang mới trong ứng dụng SAE-new Next.js. Sử dụng khi thêm các chức năng, layout hoặc các trang lồng nhau bên trong apps/sae-new.
+description: Guide on how to create, structure, and integrate new features and pages in the SAE-new Next.js application. Use when adding new functionalities, layouts, or nested pages inside apps/sae-new.
 ---
 
-# Kỹ năng Phát triển Tính năng SAE-New
+# SAE-New Feature Development Skill
 
 This skill provides step-by-step guidance, standards, and patterns for creating and developing features in the `sae-new` application.
 

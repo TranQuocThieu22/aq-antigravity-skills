@@ -1,9 +1,9 @@
 ---
 name: sae-new-api-integration
-description: Hướng dẫn triển khai các API services, axios requests, React Query hooks và các model dữ liệu API-UI đồng nhất trong dự án SAE-new.
+description: Guides the implementation of API services, axios requests, React Query data fetching hooks, and unified API-UI data models in the SAE-new project.
 ---
 
-# Kỹ năng Tích hợp API SAE-New
+# SAE-New API Integration Skill
 
 This skill explains how to build and maintain API services, manage server-state using `@tanstack/react-query` and `useCustomReactQuery`, and directly bind backend entities to user interface form models inside the `sae-new` project.
 
