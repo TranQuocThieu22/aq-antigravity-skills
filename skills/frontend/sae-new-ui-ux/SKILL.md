@@ -1,9 +1,9 @@
 ---
 name: sae-new-ui-ux
-description: Outlines styling, UI component integration, Mantine v8 styling, custom CSS, animations, and design aesthetics in the SAE-new project. Use when designing, styling, animating, or tweaking components.
+description: Quy định các tiêu chuẩn về styling, tích hợp UI component, sử dụng Mantine v8, custom CSS, animation và tính thẩm mỹ trong dự án SAE-new. Sử dụng khi thiết kế, tạo kiểu, làm hiệu ứng chuyển động hoặc tinh chỉnh UI.
 ---
 
-# SAE-New UI/UX and Styling Standards Skill
+# Kỹ năng Tiêu chuẩn UI/UX và Styling SAE-New
 
 This skill explains how to build high-fidelity, polished, premium interfaces in the `sae-new` project using Mantine v8, custom CSS modules, global animations, and our dedicated design system.
 
